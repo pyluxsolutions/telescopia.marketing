@@ -1,6 +1,9 @@
 # Telescopia.io Materials
-This repo contains the following:
-  1- Telescopia White Paper
-  2- Telescopia Financial Model
-  3- Telescopia Marketing Materials
-Please note that we are regularly updating those documents to check often.
+<p>This repo contains the following:</p>
+<ol>
+  <li>Telescopia White Paper</li>
+  <li>Telescopia Financial Model</li>
+  <li>Telescopia Marketing Materials</li>
+</ol>
+<p>Please note that we are regularly updating those documents to check often.</p>
+<p>Telescopia and all its materials are intellectual property of <a href="pylux.com">Pylux Solutions, LLC.</a></p>
